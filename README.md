@@ -27,12 +27,12 @@ pose-image-tool/
 
 ## 테스트 결과
 - 포즈 1: (벤치프레스 자세) → 프롬프트: astronaut on the moon → 결과: (서서 팔을 벌리는 자세를 취함)
-- 포즈 2: (데드리프트 서있는 자세) → 프롬프트: medieval knight → 결과: (바벨을 없었으나 서있는 자세는 일치함)
-- 포즈 3: (스쿼트 앉은 자세) → 프롬프트: chef in a kitchen → 결과: (바벨은 없었으나 스쿼트할 때 앉는 자세는 일치함)
-
 ![pose 1 비교](samples/exp_b_01.png)
+- 포즈 2: (데드리프트 서있는 자세) → 프롬프트: medieval knight → 결과: (바벨을 없었으나 서있는 자세는 일치함)
 ![pose 2 비교](samples/exp_b_02.png)
+- 포즈 3: (스쿼트 앉은 자세) → 프롬프트: chef in a kitchen → 결과: (바벨은 없었으나 스쿼트할 때 앉는 자세는 일치함)
 ![pose 3 비교](samples/exp_b_03.png)
+
 
 
 ## 한계
