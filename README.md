@@ -29,11 +29,11 @@ pose-image-tool/
 같은 포즈, 다른 프롬프트
 포즈 : 포즈 1(벤치프레스 자세)
 - 프롬프트: astronaut on the moon → 결과: (서서 다리를 벌리는 자세를 취함)
- !(samples/exp_a_01.png)
+![프롬프트 비교](samples/exp_a_01.png)
 - 프롬프트: medieval knight → 결과: (바벨을 없었으나 서있는 자세는 일치함)
-!(samples/exp_a_02.png)
+![프롬프트 비교](samples/exp_a_02.png)
 - 프롬프트: chef in a kitchen → 결과: (바벨은 없었으나 스쿼트할 때 앉는 자세는 일치함)
-!(samples/exp_a_03.png)
+![프롬프트 비교](samples/exp_a_03.png)
 
 다른 포즈, 같은 프롬프트
 프롬프트 : a young man in a red hoodie and blue jeans on a city street at night, photorealistic
